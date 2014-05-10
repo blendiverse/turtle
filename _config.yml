@@ -14,10 +14,11 @@ Blendiverse:
 
     ## Github project parameters.
     github:
-        base: https://github.com/
-        user: blendiverse
-        repository: turtle
+	base: https://github.com/
+        user: garyhodgson
+        repository: githubiverse-tst
         branch: master
+
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
     img_dir: stl_png
