@@ -5,10 +5,10 @@
 ## 
 
 ## Uses distinct namespace. Jekyll settings should go at the root level.
-Apps.MakerKit.com:
+Blendiverse:
     ## Metadata
     title: "Turtle"
-    author: MakerKit
+    author: blendiverse
     license: GPL3
     tags: [mechanical movement, toy, arduino]
 
