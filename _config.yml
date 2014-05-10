@@ -5,18 +5,18 @@
 ## 
 
 ## Uses distinct namespace. Jekyll settings should go at the root level.
-githubiverse:
+Apps.MakerKit.com:
     ## Metadata
     title: "Turtle"
     author: MakerKit
     license: GPL3
-    tags: [mechanical movement, fun]
+    tags: [mechanical movement, toy, arduino]
 
     ## Github project parameters.
     github:
         base: https://github.com/
-        user: garyhodgson
-        repository: githubiverse-tst
+        user: makerkit
+        repository: turtle
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
@@ -25,7 +25,7 @@ githubiverse:
     src_dir: src
 
     ## The headline image
-    lead_image: test-jig.jpg
+    lead_image: shell_front_left.stl
     show_lead_image: true
 
     ## Optional. When uncommented appends the content of the file defined here to the project description.  Any text in index.md, after the yaml header, will be shown first.
