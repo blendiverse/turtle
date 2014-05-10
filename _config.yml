@@ -15,7 +15,7 @@ Apps.MakerKit.com:
     ## Github project parameters.
     github:
         base: https://github.com/
-        user: makerkit
+        user: blendiverse
         repository: turtle
         branch: master
 
