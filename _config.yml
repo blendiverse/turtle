@@ -5,7 +5,7 @@
 ## 
 
 ## Uses distinct namespace. Jekyll settings should go at the root level.
-Blendiverse:
+githubiverse:
     ## Metadata
     title: "Turtle"
     author: blendiverse
@@ -35,4 +35,4 @@ Blendiverse:
     autoload_stl: true
 
     ## Show a github "fork me" ribbon in the top righthand corner of the page.
-    show_forkme_ribbon: true
+    show_forkme_ribbon: false
